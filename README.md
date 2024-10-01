@@ -1,3 +1,3 @@
 # hello-world
 First git project 
-ONLY TESTING ...
+Päivityksiä 1.10.2024
